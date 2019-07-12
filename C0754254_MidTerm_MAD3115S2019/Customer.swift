@@ -7,3 +7,18 @@
 //
 
 import Foundation
+
+struct Customer {
+    let customerID : String
+    var name : String
+    var email : String
+    var password : String
+    
+    init(customerID:String,name:String,email:String,password:String) {
+        self.customerID = customerID
+        self.name = name
+        self.email = email
+        self.password = password
+        <#statements#>
+    }
+}
