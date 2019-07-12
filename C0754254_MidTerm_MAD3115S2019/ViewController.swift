@@ -9,8 +9,9 @@
 import UIKit
 
 class ViewController: UIViewController {
-    @IBOutlet weak var idtext: UITextField!
-    @IBOutlet weak var passwordtxt: UITextField!
+    @IBOutlet weak var txtemailId: UITextField!
+    
+    @IBOutlet weak var txtPassword: UITextField!
     
     override func viewDidLoad() {
         super.viewDidLoad()
