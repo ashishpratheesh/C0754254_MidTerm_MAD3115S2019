@@ -25,8 +25,13 @@ class ViewController: UIViewController {
 }
     @IBAction func BtnLoginClick(_ sender: Any)
     {
+        let alertController = UIAlertController(title: "invalid credinatils", message:
+            "try again!", preferredStyle: .alert)
+        alertController.addAction(UIAlertAction(title: "Dismiss", style: .default))
         
+        self.present(alertController, animated: true, completion: nil)
+    }
 
 
-}
+
 }
