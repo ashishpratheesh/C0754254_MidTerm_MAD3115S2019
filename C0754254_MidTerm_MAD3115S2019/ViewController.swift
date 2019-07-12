@@ -11,6 +11,7 @@ import UIKit
 class ViewController: UIViewController {
     @IBOutlet weak var txtemailId: UITextField!
     
+    @IBOutlet weak var remembermeswitch: UISwitch!
     @IBOutlet weak var txtPassword: UITextField!
     
     override func viewDidLoad() {
