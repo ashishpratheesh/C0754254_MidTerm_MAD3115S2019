@@ -20,6 +20,9 @@ class ViewController: UIViewController {
         backgroundImage.image = UIImage(named: "background")
         backgroundImage.contentMode = UIView.ContentMode.scaleAspectFill
         self.view.insertSubview(backgroundImage, at: 0)
+        
+        
+        
 
         // Do any additional setup after loading the view.
     }

@@ -19,6 +19,6 @@ struct Customer {
         self.name = name
         self.email = email
         self.password = password
-        <#statements#>
+        
     }
 }
