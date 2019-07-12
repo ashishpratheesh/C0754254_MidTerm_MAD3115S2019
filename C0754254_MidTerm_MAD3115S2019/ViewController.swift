@@ -21,7 +21,12 @@ class ViewController: UIViewController {
         backgroundImage.contentMode = UIView.ContentMode.scaleAspectFill
         self.view.insertSubview(backgroundImage, at: 0)
         
-    }
+        
 }
-   // @IBAction func BtnLoginClick(_ sender: Any)
+    @IBAction func BtnLoginClick(_ sender: Any)
+    {
+        
 
+
+}
+}
