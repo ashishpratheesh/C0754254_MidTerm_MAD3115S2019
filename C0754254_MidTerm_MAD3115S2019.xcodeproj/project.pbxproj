@@ -18,6 +18,7 @@
 		63E6841522D93E2F005F7602 /* Hydro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E6841422D93E2F005F7602 /* Hydro.swift */; };
 		63E6841822D93E8F005F7602 /* Bills.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E6841722D93E8F005F7602 /* Bills.swift */; };
 		63E6841A22D93F84005F7602 /* Internet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E6841922D93F84005F7602 /* Internet.swift */; };
+		63E6841C22D940BC005F7602 /* Mobile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E6841B22D940BC005F7602 /* Mobile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +56,7 @@
 		63E6841422D93E2F005F7602 /* Hydro.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hydro.swift; sourceTree = "<group>"; };
 		63E6841722D93E8F005F7602 /* Bills.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bills.swift; sourceTree = "<group>"; };
 		63E6841922D93F84005F7602 /* Internet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Internet.swift; sourceTree = "<group>"; };
+		63E6841B22D940BC005F7602 /* Mobile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mobile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 				63E6841922D93F84005F7602 /* Internet.swift */,
 				63E6841422D93E2F005F7602 /* Hydro.swift */,
 				63E6841222D93CD9005F7602 /* Customer.swift */,
+				63E6841B22D940BC005F7602 /* Mobile.swift */,
 				63175DEA22D831DC0007E1CA /* Assets.xcassets */,
 				63175DEC22D831DC0007E1CA /* LaunchScreen.storyboard */,
 				63175DEF22D831DC0007E1CA /* Info.plist */,
@@ -271,6 +274,7 @@
 				63E6841A22D93F84005F7602 /* Internet.swift in Sources */,
 				63E6841522D93E2F005F7602 /* Hydro.swift in Sources */,
 				63E6841822D93E8F005F7602 /* Bills.swift in Sources */,
+				63E6841C22D940BC005F7602 /* Mobile.swift in Sources */,
 				63E6841322D93CD9005F7602 /* Customer.swift in Sources */,
 				63175DE622D831DC0007E1CA /* ViewController.swift in Sources */,
 				63175DE422D831DC0007E1CA /* AppDelegate.swift in Sources */,
