@@ -61,6 +61,9 @@
                                     <color key="titleColor" red="1" green="0.29230810350000003" blue="0.13382205599999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                     <color key="titleShadowColor" red="0.98951586787564771" green="0.15783380780789288" blue="0.12745721860040435" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 </state>
+                                <connections>
+                                    <action selector="BtnLoginClick:" destination="BYZ-38-t0r" eventType="touchUpInside" id="TtR-Qb-8M7"/>
+                                </connections>
                             </button>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
