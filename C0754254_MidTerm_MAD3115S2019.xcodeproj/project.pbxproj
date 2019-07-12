@@ -17,6 +17,7 @@
 		63E6841322D93CD9005F7602 /* Customer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E6841222D93CD9005F7602 /* Customer.swift */; };
 		63E6841522D93E2F005F7602 /* Hydro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E6841422D93E2F005F7602 /* Hydro.swift */; };
 		63E6841822D93E8F005F7602 /* Bills.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E6841722D93E8F005F7602 /* Bills.swift */; };
+		63E6841A22D93F84005F7602 /* Internet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E6841922D93F84005F7602 /* Internet.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		63E6841222D93CD9005F7602 /* Customer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Customer.swift; sourceTree = "<group>"; };
 		63E6841422D93E2F005F7602 /* Hydro.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hydro.swift; sourceTree = "<group>"; };
 		63E6841722D93E8F005F7602 /* Bills.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bills.swift; sourceTree = "<group>"; };
+		63E6841922D93F84005F7602 /* Internet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Internet.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +109,7 @@
 				63175DE522D831DC0007E1CA /* ViewController.swift */,
 				63E6841722D93E8F005F7602 /* Bills.swift */,
 				63175DE722D831DC0007E1CA /* Main.storyboard */,
+				63E6841922D93F84005F7602 /* Internet.swift */,
 				63E6841422D93E2F005F7602 /* Hydro.swift */,
 				63E6841222D93CD9005F7602 /* Customer.swift */,
 				63175DEA22D831DC0007E1CA /* Assets.xcassets */,
@@ -265,6 +268,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				63E6841A22D93F84005F7602 /* Internet.swift in Sources */,
 				63E6841522D93E2F005F7602 /* Hydro.swift in Sources */,
 				63E6841822D93E8F005F7602 /* Bills.swift in Sources */,
 				63E6841322D93CD9005F7602 /* Customer.swift in Sources */,
