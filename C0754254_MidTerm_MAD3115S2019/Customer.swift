@@ -14,6 +14,7 @@ struct Customer {
     var email : String
     var password : String
     
+    
     init(customerID:String,name:String,email:String,password:String) {
         self.customerID = customerID
         self.name = name
